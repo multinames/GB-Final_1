@@ -10,8 +10,19 @@ arr1[2] = "ghi2";
 // Создание переменной счетчика
 // int count_arr = 0;
 
-// Подсчет символов 
+void PrintArray(string[] arr)
+// Вывод всех элементов массива
+{
+    Console.Write("[");
+    for(int i=0; i<arr.Length;i++) 
+    {
+           Console.Write($"\"{arr[i]}\", ");
+    }
+    Console.Write("]");
+}
+
 int CalcSize(string[] arr1, int count_arr)
+// Подсчет совпадающих по количеству символов строк в массиве
 {
 for (int i = 0; i < arr1.Count(); i++)
         if (arr1[i].Length > 3) {
@@ -38,10 +49,15 @@ for (int i = 0; i < arr1.Count(); i++)
         arr2[j]=arr1[i];
         j+=1;
        // Console.WriteLine("j = "+j);
-       Console.Write($"{arr2[j-1]} "); 
+   //    Console.Write($"{arr2[j-1]} "); 
      //   Console.Write($"{String.Join(" ",arr2)} "); 
         }
         
 }
 
+//PrintArray(arr1);
+
+Console.Write($"[{String.Join(", ", arr1)}] ->");
+
 ToNewArray(arr1, arr2, 0);
+
