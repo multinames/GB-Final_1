@@ -1,0 +1,15 @@
+D:\tmp\GB\GB-Final_1\Task01\bin\Debug\net7.0\Task01.exe
+D:\tmp\GB\GB-Final_1\Task01\bin\Debug\net7.0\Task01.deps.json
+D:\tmp\GB\GB-Final_1\Task01\bin\Debug\net7.0\Task01.runtimeconfig.json
+D:\tmp\GB\GB-Final_1\Task01\bin\Debug\net7.0\Task01.dll
+D:\tmp\GB\GB-Final_1\Task01\bin\Debug\net7.0\Task01.pdb
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.csproj.AssemblyReference.cache
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.dll
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\refint\Task01.dll
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.pdb
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+D:\tmp\GB\GB-Final_1\Task01\obj\Debug\net7.0\ref\Task01.dll
